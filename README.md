@@ -9,7 +9,7 @@ gcc -c ecrypt-sync.c
 
 gcc -c py.c
 
-gcc ecrypt-sync.o py.o ecrypt-test.c -o ecript-test
+gcc ecrypt-sync.o py.o ecrypt-test.c -o ecrypt-test
 
 RUN
 ========
